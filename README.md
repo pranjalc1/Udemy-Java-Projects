@@ -2,7 +2,7 @@
 This is a compilation of my Java projects from Udemy prompts.
 
 Email-Admin-Application
-* Project from _Practice Java by Building Projects_ course
+* Email Administration Application Project from _Practice Java by Building Projects_ course
 * Generate email with syntax _firstname.lastname@department.company.com_
 * Determine department (if none, leave blank)
 * Generate random String for password
