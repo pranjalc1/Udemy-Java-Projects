@@ -28,7 +28,7 @@ public class Email
         System.out.println();
 
         // Call method to return random password
-        password = randomPassword(defaultPasswordLength);
+        password = generatePassword(defaultPasswordLength);
         System.out.println("Your password is: " + password);
 
         System.out.println();
@@ -82,7 +82,7 @@ public class Email
 
 
     // Generate a random password
-    public String randomPassword(int length)
+    public String generatePassword(int length)
     {
         String passwordSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$";
 
@@ -152,6 +152,7 @@ public class Email
     {
         return mailboxCapacity;
     }
+
 
     // Show info about email
     public String showInfo()
