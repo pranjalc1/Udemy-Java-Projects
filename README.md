@@ -1,8 +1,8 @@
-# Udemy-Java-Projects
-This is a compilation of my Java projects from Udemy course prompts.
+# Winter-2021-Java-Projects
+This is a compilation of my Java projects from prompts from the Udemy course _Practice Java by Building Projects_.
 
 ## Email-Admin-Application
-* Email Administration Application Project from _Practice Java by Building Projects_ course (Completed in Winter 2021)
+* Email Administration Application Project
 * Generate email with syntax _firstname.lastname@department.company.com_
 * Determine department (if none, leave blank)
 * Generate random String for password
@@ -10,10 +10,10 @@ This is a compilation of my Java projects from Udemy course prompts.
 * Create get methods to display name, email, and mailbox capacity
 
 ## Student-Database-Application
-* Student Database Application Project from _Practice Java by Building Projects_ course (Completed in Winter 2021)
+* Student Database Application Project
 * Ask user how many new students will be added to database
 * User will be prompted to enter name and year for each student
 * Each student has 5-digit unique ID, with first number being grade level
-* Student can enroll in the _History 101, Mathematics 101, English 101, Chemistry 101, or Computer Science 101_, each costing $600 to enroll
+* Student can enroll in the _History 101, Math 101, English 101, Chemistry 101, or Computer Science 101_, each costing $600 to enroll
 * Student should be able to view balance and pay tuition
 * To see status of the student, we should see the name, ID, courses enrolled, and balance
