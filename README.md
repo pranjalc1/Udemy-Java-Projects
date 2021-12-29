@@ -1,5 +1,5 @@
-# Winter-2021-Java-Projects
-This is a compilation of my Java projects from prompts from the Udemy course _Practice Java by Building Projects_.
+# Udemy-Java-Projects
+This is a compilation of my Java projects from prompts from the Udemy course _Practice Java by Building Projects_ (completed in Winter 2021).
 
 ## Email-Admin-Application
 * Email Administration Application Project
