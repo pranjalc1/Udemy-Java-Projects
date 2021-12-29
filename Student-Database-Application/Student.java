@@ -72,7 +72,7 @@ public class Student
     {
         System.out.println("Course enrollment\nAvailable courses:");
         System.out.println(
-            "History 101\nMathematics 101\nEnglish 101\nChemistry 101\nComputer Science 101");
+            "History 101\nMath 101\nEnglish 101\nChemistry 101\nComputer Science 101");
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter course to enroll in (q to quit): ");
